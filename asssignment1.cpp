@@ -21,7 +21,7 @@ int main()
     
     
     struct books b1[5] = {{"Sherlock_Holmes", "Arthur Conan Doyle", 400, 12},{"Harry_Potter", "J.K. Rowling", 500, 20}, {"IT", "Stephen_King", 300, 15}, {"IT_Chapter_2", "Stephen_King", 350, 17} };
-    cout<<"*****Libray*****\n\n";
+    cout<<"*****Library*****\n\n";
     
 
   do
