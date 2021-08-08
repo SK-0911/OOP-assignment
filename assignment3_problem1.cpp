@@ -48,7 +48,7 @@ int main()
       int *yard = new int;
       cout << "Yard: ";
       cin>>*yard;
-      cout<<*yard<<" yard is "<<y2i(*yard)<<" foot";
+      cout<<*yard<<" yard is "<<y2i(*yard)<<" inches";
       delete yard;
       break;
     }
